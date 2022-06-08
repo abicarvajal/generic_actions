@@ -1,0 +1,15 @@
+C:\Users\abita\source\repos\Generic_Actions\Generic_Actions\bin\Debug\net6.0\Generic_Actions.exe
+C:\Users\abita\source\repos\Generic_Actions\Generic_Actions\bin\Debug\net6.0\Generic_Actions.deps.json
+C:\Users\abita\source\repos\Generic_Actions\Generic_Actions\bin\Debug\net6.0\Generic_Actions.runtimeconfig.json
+C:\Users\abita\source\repos\Generic_Actions\Generic_Actions\bin\Debug\net6.0\Generic_Actions.dll
+C:\Users\abita\source\repos\Generic_Actions\Generic_Actions\bin\Debug\net6.0\Generic_Actions.pdb
+C:\Users\abita\source\repos\Generic_Actions\Generic_Actions\obj\Debug\net6.0\Generic_Actions.csproj.AssemblyReference.cache
+C:\Users\abita\source\repos\Generic_Actions\Generic_Actions\obj\Debug\net6.0\Generic_Actions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abita\source\repos\Generic_Actions\Generic_Actions\obj\Debug\net6.0\Generic_Actions.AssemblyInfoInputs.cache
+C:\Users\abita\source\repos\Generic_Actions\Generic_Actions\obj\Debug\net6.0\Generic_Actions.AssemblyInfo.cs
+C:\Users\abita\source\repos\Generic_Actions\Generic_Actions\obj\Debug\net6.0\Generic_Actions.csproj.CoreCompileInputs.cache
+C:\Users\abita\source\repos\Generic_Actions\Generic_Actions\obj\Debug\net6.0\Generic_Actions.dll
+C:\Users\abita\source\repos\Generic_Actions\Generic_Actions\obj\Debug\net6.0\refint\Generic_Actions.dll
+C:\Users\abita\source\repos\Generic_Actions\Generic_Actions\obj\Debug\net6.0\Generic_Actions.pdb
+C:\Users\abita\source\repos\Generic_Actions\Generic_Actions\obj\Debug\net6.0\Generic_Actions.genruntimeconfig.cache
+C:\Users\abita\source\repos\Generic_Actions\Generic_Actions\obj\Debug\net6.0\ref\Generic_Actions.dll
